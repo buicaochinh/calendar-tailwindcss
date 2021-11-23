@@ -1,1 +1,1 @@
-# calendar-tailwincss
+# calendar-tailwincss & vanilla js
